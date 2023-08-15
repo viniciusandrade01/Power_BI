@@ -1,0 +1,4 @@
+Aula sobre Relatórios Inteligentes no Power BI.
+    .Inclusive, há IA no Power BI, ou seja, conseguimos gerar relatórios simplesmente pela digitação, bastante interessante.
+
+Fonte: https://www.youtube.com/watch?v=Xg1xXvIKlVk
